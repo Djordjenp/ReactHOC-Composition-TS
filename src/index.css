@@ -1,0 +1,14 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  height: 100vh;
+  display: grid;
+  place-items: center;
+  background: linear-gradient(144deg, rgba(3,56,200,1) 0%, rgba(2,177,238,1) 100%);
+  color: white;
+  font-family: "Lato", sans-serif;
+}
